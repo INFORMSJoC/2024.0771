@@ -1,0 +1,9 @@
+# This is a specification of one battery and all batteries are assumed to have same specification.
+Emax = 1
+Emin = 0.0
+E0 = 0.0
+e = 0.95
+PCmax = 0.95
+PCmin = 0.0
+PDmax = 0.95
+PDmin = 0.0
