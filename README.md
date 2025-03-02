@@ -3,7 +3,7 @@
 
   
 
-# Regularized MIP Model
+# Regularized MIP Model for Integrating Energy Storage Systems and its Application for Solving a Trilevel Interdiction Problem
 
   
 
