@@ -73,3 +73,8 @@ To produce Figure 2, run:
 ```bash
 julia  src/figure.jl
 ```
+
+To generate demand with perturbation level \(p\), run:
+```bash
+julia src/demand.jl network p
+```
